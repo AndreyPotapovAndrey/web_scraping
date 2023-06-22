@@ -1,0 +1,6 @@
+/__pycache__
+/.idea/
+3_habr_parser.py
+4_habr_parser_selenium.py
+habr.py
+iplocation.py

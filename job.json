@@ -1,0 +1,42 @@
+{
+  "Иннотех, Группа компаний": {
+    "salary": "200000 – 330000 руб.",
+    "city": "Москва",
+    "link": "https://spb.hh.ru/vacancy/79736343?from=vacancy_search_list&query=Python"
+  },
+  "CATAPULTO.RU": {
+    "salary": "200000 – 330000 руб.",
+    "city": "Москва",
+    "link": "https://spb.hh.ru/vacancy/80002041?from=vacancy_search_list&query=Python"
+  },
+  "ООО Виста": {
+    "salary": "Большая, наверное...",
+    "city": "Санкт-Петербург",
+    "link": "https://spb.hh.ru/vacancy/82128820?from=vacancy_search_list&query=Python"
+  },
+  "MillionAgents": {
+    "salary": "30000 – 50000 руб.",
+    "city": "Москва",
+    "link": "https://spb.hh.ru/vacancy/81639879?from=vacancy_search_list&query=Python"
+  },
+  "B.ART": {
+    "salary": "200000 – 330000 руб.",
+    "city": "Москва",
+    "link": "https://spb.hh.ru/vacancy/81442089?from=vacancy_search_list&query=Python"
+  },
+  "ООО АВ Софт": {
+    "salary": "до 330000 руб.",
+    "city": "Москва",
+    "link": "https://spb.hh.ru/vacancy/82163837?from=vacancy_search_list&query=Python"
+  },
+  "ООО Корпорация ЗНАК": {
+    "salary": "до 330000 руб.",
+    "city": "Москва",
+    "link": "https://spb.hh.ru/vacancy/81974265?from=vacancy_search_list&query=Python"
+  },
+  "AERODISK": {
+    "salary": "180000 – 240000 руб.",
+    "city": "Москва",
+    "link": "https://spb.hh.ru/vacancy/82040028?from=vacancy_search_list&query=Python"
+  }
+}
